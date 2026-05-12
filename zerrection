@@ -1,0 +1,42 @@
+
+<!-- <a href="https://silentachiever-stack.github.io/RANAMOREN/calculator.html"><button
+                            class="view">view</button></a> -->
+
+
+
+                            <!--  <div class="store">
+                                        <div class="store-inner">
+                                            <video autoplay muted loop playsinline class="front">
+                                                <source src="../assest/weather.mp4" type="video/mp4">
+                                            </video>
+                                            <div class="back">
+                                                <h1>Weather-App</h1>
+                                                <p>Real-time weather application with 5-day forecast using WeatherAPI, built with pure JavaScript.</p>
+                                                <div class="tool-s">
+                                                    <span>HTML</span><span>CSS</span><span>JS</span>
+                                                </div>
+                                                <a href="https://silentachiever-stack.github.io/RANAMOREN/weather-app.html"><button class="view">view</button></a>
+                                            </div>
+                                        </div>
+                                    </div> -->
+
+<!-- <div class="store">
+            <div class="store-inner">
+                <video autoplay muted loop playsinline class="front">
+                    <source src="../assest/luxlab,.mp4" type="video/mp4">
+                </video>
+                <div class="back">
+                    <h1>LuxLab</h1>
+                    <p>Elevating The Craft: We provide more than just a cut, we provide the confidence required for the modern world.
+                    LuxLab is a sanctuary where heritage barbering meets modern luxury.</p>
+                    <div class="tool-s">
+                        <span>HTML</span><span>CSS</span><span>React</span>
+                    </div>
+                    <a href="https://silentachiever-stack.github.io/RANAMOREN/LuxLab.html"><button
+                            class="view">view</button></a>
+                </div>
+            </div>
+        </div> -->
+
+        <!-- Divider Line -->
+        <!--  <div class="footer-divider"></div> -->
